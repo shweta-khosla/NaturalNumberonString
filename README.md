@@ -1,6 +1,6 @@
 # NaturalNumberonString
 Project 2
-Project Summary:
+ Summary:
 Java.lang must be used to implement a kernel class for the new type NaturalNumber as part of the NaturalNumber on String project.The underlying representation is a string. The project's main goal is to finish and test kernel functions while following the abstraction function and representation constant defined by the given Java class.
 
 Implementation:
